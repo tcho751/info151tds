@@ -1,0 +1,3 @@
+couleur: voilette
+marque: rang over
+type: electrique
